@@ -16,7 +16,7 @@ nav_order: 3
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
-
+Territories, overall, have significantly greater vaccination rates per capita (of 100) than provinces, which can be seen visually from darker colours. Provinces have relatively small differences in their vaccine rates in comparison to each other, with most averaging around 50 vaccinations per 100 people .
 
 ---
 
@@ -24,10 +24,10 @@ nav_order: 3
 > Q2: How has travel to recreation and retail locations changed over time between regions of Canada?  
 
 <!-- Paste your embed code for your figure below-->
-
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/skasanamobilityinretailandrecreation/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
+All regions in the figure, for the most part, decrease and increase in mobility in recereational and retail areas at the same time for a given time period. Shortly after the beginning pandemic, all regions dropped in visits increasingly fast from the baseline values,  and then increased while approaching back to normal, baseline values over the next several months. Shortly after January, 2021, however, each region differs drastically in trends of visiting recreations and retail destinations, most likely attriuted to COVID-19 case and vaccine rates that differ from region to region.
 
 ---
 
