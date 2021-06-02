@@ -38,9 +38,13 @@ According to the figure, transit mobility in 4 of the most populous provinces sa
 
 ## 3. Inquiry 3
 
-> Q3: *enter your question here*
+> Q3: Are there trends between cases and tests in Canada?
 
 <!-- Paste your embed code for your figure below-->
-
+<iframe width="910" height="387" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMo6-pmpfStBsjeinD6m7U3aTQTd5ZSrcU-ZunzSonBkFiApdrJ8BlF-U1vSBtvXEOj_9fTVozgp7C/pubchart?oid=1693504670&amp;format=interactive"></iframe>
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+A common misconception by those who underestimate and attempt to deny the severity of COVID-19 often cite that cases only increase when more tests are taken, not because of social distancing or other factors. 
+
+This figure shows that despite tests per day averaging out similarly to one another, including one huge surge in tests near Christmas, COVID-19 cases still rise and fall, showing little correlation between tests and cases. In the beginning  of the pandmeic as tests became available, cases did rise, in 2021 when cases rose and fell, the same trend was not clearly observed in cases.  
