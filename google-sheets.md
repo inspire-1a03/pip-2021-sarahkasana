@@ -10,10 +10,11 @@ nav_order: 2
 > Q1: How has daily COVID-19 cases, hospitalizations and deaths changed in Canada over time since the beginning of the pandemic?
 
 <!-- Paste your embed code for your figure below-->
+<iframe width="1123" height="567" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6UcxuXUUEFYlKnx58VKZTv-YsY-qgo5m5Qjs19HO7wGgiiZscA3ISm8u98ihxD-Jv-JA-BS957daE/pubchart?oid=105331801&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
+As the figure shows, daily cases, hospitalizations, and deaths, increased and decreased synchronously since the beginning of the pandemic, with three major waves. One wave occured near the beginning of the pandemic, another spike near the beginning of 2021, and the third wave this past month in May, which seems to have crested and is steadily decreasing.
 ---
 
 ## 2. Ontario's testing and vaccination trends 
