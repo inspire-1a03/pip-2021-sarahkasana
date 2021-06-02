@@ -53,4 +53,9 @@ Canada-wide data showed that transit stations, workplaces, retail, and recreatio
 > What additional information would you like to help answer these questions? 
 
 <!-- Write a short response below-->
+When trying to attribute changes in data, it becomes conclusive that a lot of the data explored can be measured by looking at govenrment policy through different periods of time. In Ontario vaccinations rates increased as more age groups became eligible, which came as vaccine supplies increased through demands created by the government.Mobility trends were impacted heavily by lockdowns, where stores had smaller capacities or were shut down, as the same goes for work places. This may have forced Canadians to one of their few options of entertainment outdoors, in parks where they can stay socially-distant, leading to an increase in mobility. 
 
+All of this data has lead to further inquiry. 
+How are vaccine rates per province combatting case rates/deaths/hospitalizations?  This information can be used to create more research on vaccine efficacy especially with different variants. How much of cases/deaths/hospitalization can be attributed to new variants?  Most of the data is measured over time, what occured in different time periods to affect changes in data (i.e. lockdowns, schools, etc.)?
+
+Vaccine rates vs. hospitalizations/cases/deaths can be compared aleady, but more information about how many people have recieved at least one dose, or both rahter than how many vacciantions were given out, could create more accurate conclusions. Data would have to gathered for cases/hospitalizations/deaths of different variants in order to understand their effect.  Timelines of specific policies that directly affected mobility and therefore cases would also have to be obtained. 
