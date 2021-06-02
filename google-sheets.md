@@ -41,9 +41,11 @@ Vaccines became available in January, where we start to see rates increasing. Te
 > Q4. How has mobility changed in Canada over the pandemic?
 
 <!-- Paste your embed code for your figure below-->
+<iframe width="1029" height="511" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWBHwL3GN8USPbmIofQt2lT3cwj6XvPPPI5uispS7AzPl8rl10ZYzrtCXfAxA7t4Ski2VhDSpWREYO/pubchart?oid=956206959&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+Canada-wide data showed that transit stations, workplaces, retail, and recreation areas decreased in mobility overall from baseline values established for the period leading up to the pandemic, with transit stations being hit the hardest.. Residential areas saw a greater increase from baseline values, while the mobilities in parks increased heavily shortly after the pandemic started, and then decreased once fall arrived, but is increasing again as this summer approaches. 
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
