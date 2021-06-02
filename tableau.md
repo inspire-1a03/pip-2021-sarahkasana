@@ -54,7 +54,7 @@ In regards to parks, as mentioned before, the surge in visitation is likely due 
 
 ### What new questions would you like to ask of the data? 
 
-How can this data be used by public health agencies to limit the spread of COVID-19? How can the factors leading to surges and decreases in visitation be determined? How much of visitation to these areas affect the spread of COVID-19 (is it importnat to look at visitation in these areas)?
+How can this data be used by public health agencies to limit the spread of COVID-19? How can the factors leading to surges and decreases in visitation be determined? How much of visitation to these areas affect the spread of COVID-19 (is it important to look at visitation in these areas)?
 
 ### How might you use these two datasets together to perform new analyses? 
 
