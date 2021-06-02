@@ -21,17 +21,17 @@ As the figure shows, daily cases, hospitalizations, and deaths, increased and de
 > Q2: How has Ontario responded to COVID in terms of testing and vaccinations? 
 
 <!-- Paste your embed code for your figure below-->
+<iframe width="688" height="425" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6UcxuXUUEFYlKnx58VKZTv-YsY-qgo5m5Qjs19HO7wGgiiZscA3ISm8u98ihxD-Jv-JA-BS957daE/pubchart?oid=1046558920&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
----
+Looking at the COVID-19 tests and vaccinations per 100 people in Ontario, while tests have increased very steadily since the beginning of the pandemic, vaccines (which began distribution earlier in 2021) are increasing at a might faster rate , despite not having as many vacciantions as tests. This may be due to the recent icnrease of supply of vaccinesand the fact that more Ontarians are more eligible for the vaccine now than when distribution started. 
 
 ## 3. Vaccination rates across provinces and territories
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
 <!-- Paste your embed code for your figure below-->
-
+<iframe width="561" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6UcxuXUUEFYlKnx58VKZTv-YsY-qgo5m5Qjs19HO7wGgiiZscA3ISm8u98ihxD-Jv-JA-BS957daE/pubchart?oid=506075820&amp;format=interactive"></iframe>
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
