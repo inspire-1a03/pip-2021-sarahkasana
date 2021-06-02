@@ -34,7 +34,7 @@ Looking at the COVID-19 tests and vaccinations per 100 people in Ontario, while 
 <iframe width="561" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6UcxuXUUEFYlKnx58VKZTv-YsY-qgo5m5Qjs19HO7wGgiiZscA3ISm8u98ihxD-Jv-JA-BS957daE/pubchart?oid=506075820&amp;format=interactive"></iframe>
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
+Vaccines became available in January, where we start to see rates increasing. Territories overall have vaccinated more per capite (of 100 people) than provinces, as shown in the figure above. Smaller, relative populations in territories may have made it easier for the supply to meet the demand, and allow for a faster distribution plan. 
 ---
 
 ## 4. Canadian mobility trends 
